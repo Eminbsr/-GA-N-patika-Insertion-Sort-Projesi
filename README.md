@@ -27,6 +27,6 @@ Best Case: Aradığımız sayının en başında olması.
 
 Bizlere bu şansı verdikleri için ve Kodluyoruz
 
-Patika.dev
+[Patika.dev](https://www.patika.dev/tr)
 
 ekiplerine teşekkür ederim.
